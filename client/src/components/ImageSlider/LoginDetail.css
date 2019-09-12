@@ -1,0 +1,12 @@
+.login-Detail{
+    width:100%;
+    height: 100%;
+    background-color: rgb(219, 132, 158);
+}
+
+.internal-Arch{
+    text-align: center;
+}
+.internal-Arch p{
+    color: solid black;
+}

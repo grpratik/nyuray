@@ -1,0 +1,49 @@
+.beMember-Features{
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    background-color:  rgb(247, 184, 202);
+}
+.beMemberFeatures{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.beMemberDesc{
+    margin: 0px 60px;
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+
+}
+.beMember-Details{
+    width:100%;
+    height: 100%;
+    background-color: rgb(219, 132, 158);
+}
+
+.internal-Arch{
+    text-align: center;
+}
+.premiumHeader{
+    height: 50px;
+    background-color: rgb(202, 60, 102);
+}
+.premiumMemberList{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.MuiButtonBase-root.MuiButton-root.premiumMemberButton.MuiButton-contained{
+    background-color: rgb(202, 60, 102);
+    margin: 100px 20px;
+}
+.priceTag{
+    margin:50px 100px;
+    color: white;
+}

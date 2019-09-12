@@ -1,0 +1,58 @@
+.footer-Features{
+    height: 200px;
+    width: 100%;
+    background-color:  rgb(247, 184, 202);
+}
+.footerNyurayFeatures{
+    display: flex;
+    flex-direction: row;
+}
+.footerFeaturesDesc{
+    margin: 0px 60px;
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+
+}
+a{
+    color: black;
+    font-weight: bolder;
+}
+.list-unstyled{
+    margin: 0px 0px;
+    display: inline-block;
+    padding: 5px;
+    color: black;
+    
+}
+.fb .twitter .instagram{
+    background-color: none;
+}
+a:hover{
+    background-color: rgb(131, 13, 46);
+    border-radius: 10%;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.vl {
+    border-left: 2px solid black;
+    margin-top:10px;
+    height: 125px;
+    width: 2px;
+  }
+
+.vidyalayaMitra-Footer h4{
+    margin-top: 50px;
+}
+.footer-Heading{
+    font-weight: bold;
+}
+
+.row{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}

@@ -1,0 +1,18 @@
+.awesome-Features{
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    background-color:  rgb(247, 184, 202);
+}
+.someAwesomeFeatures{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.awesomeFeaturesDesc{
+    margin: 0px 60px;
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+
+}
